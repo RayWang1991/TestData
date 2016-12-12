@@ -1,0 +1,5 @@
+name: frank
+sex: male
+birthday: 2016.12.12
+phone: 12345678
+email: frank@123.com
